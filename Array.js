@@ -1,6 +1,7 @@
 let arr = ["Chennai","Salem","Thousandlights","Guindy"];
 console.log();
 
+console.log();
 
 arr.push("St.thomas","DMS");
 console.log(arr);
